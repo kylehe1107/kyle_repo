@@ -1,5 +1,4 @@
 # kyle_repo
 
-demonstration repository for class
+Canva Subscription Analysis
 
-I'm editing the file here on github.
