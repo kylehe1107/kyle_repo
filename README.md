@@ -1,5 +1,15 @@
-# Slack Subscription Analysis
+# Slack Subscription Analysis (2020 - 2021)
 
+Analyzing Slack Subscription trends from 2020 - 2021. Interactive Tableau dashboard can be found here.
+
+
+# North star Metrics and Dimensions
+* Sales: Total Subscriptions sales from Pro, Business +, and Enterprise Grid plans
+* Plan type: Pro, Business +, and Enterprise Grid
+* Plan Period: Yearly or monthl plan
+* Plan Regions: North America (NA), Latin America(LATAM), Pacific Asia (APAC), Europe (EU), and Middle East (UAE)
+
+# Sumamry of Insights
 
 Goal: Analyze user growth, plan adoption, revenue trends, and churn behavior to understand Slack’s performance during the pandemic.
 
