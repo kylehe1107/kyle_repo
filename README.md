@@ -10,11 +10,11 @@ Analyzing Slack Subscription trends from 2020 - 2021. Interactive Tableau dashbo
 * Plan Regions: North America (NA), Latin America(LATAM), Pacific Asia (APAC), Europe (EU), and Middle East (UAE)
 
 # Summary of Insights
-# Plan Type:
+## Plan Type:
 * At the start of the pandemic
-# Plan Period:
+## Plan Period:
 * Yearly plans
-# Plan Region:
+## Plan Region:
 * During the peak of COVID
 
 # Recommediations & Next Steps
