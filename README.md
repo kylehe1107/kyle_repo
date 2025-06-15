@@ -3,7 +3,7 @@
 Analyzing Slack Subscription trends from 2020 - 2021. Interactive Tableau dashboard can be found here.
 
 
-# North star Metrics and Dimensions
+# North Star Metrics and Dimensions
 * Sales: Total Subscriptions sales from Pro, Business +, and Enterprise Grid plans
 * Plan type: Pro, Business +, and Enterprise Grid
 * Plan Period: Yearly or monthl plan
