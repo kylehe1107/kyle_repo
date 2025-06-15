@@ -9,7 +9,15 @@ Analyzing Slack Subscription trends from 2020 - 2021. Interactive Tableau dashbo
 * Plan Period: Yearly or monthl plan
 * Plan Regions: North America (NA), Latin America(LATAM), Pacific Asia (APAC), Europe (EU), and Middle East (UAE)
 
-# Sumamry of Insights
+# Summary of Insights
+# Plan Type:
+* At the start of the pandemic
+# Plan Period:
+* Yearly plans
+# Plan Region:
+* During the peak of COVID
+
+# Recommediations & Next Steps
 
 Goal: Analyze user growth, plan adoption, revenue trends, and churn behavior to understand Slack’s performance during the pandemic.
 
