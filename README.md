@@ -1,4 +1,4 @@
-# Slack Subscription Analysis (2020 - 2021)
+# Slack Subscription Analysis (2019 - 2021)
 
 Analyzing Slack Subscription trends from 2020 - 2021. Interactive Tableau dashboard can be found here.
 
