@@ -6,7 +6,7 @@ Analyzing Slack Subscription trends from 2020 - 2021. Interactive Tableau dashbo
 # North Star Metrics and Dimensions
 * Sales: Total Subscriptions sales from Pro, Business +, and Enterprise Grid plans
 * Plan type: Pro, Business +, and Enterprise Grid
-* Plan Period: Yearly or monthl plan
+* Plan Period: Yearly or monthly plan
 * Plan Regions: North America (NA), Latin America(LATAM), Pacific Asia (APAC), Europe (EU), and Middle East (UAE)
 
 # Summary of Insights
