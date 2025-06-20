@@ -1,6 +1,7 @@
 # Slack Subscription Analysis (2019 - 2021)
 
 Analyzing Slack Subscription trends from 2020 - 2021. Interactive Tableau dashboard can be found here.
+![image](https://github.com/user-attachments/assets/5cfd4c5e-1ab2-4074-89a5-feda323e7291)
 
 
 # North Star Metrics and Dimensions
@@ -29,4 +30,3 @@ Peak vs. Trough: The highest revenue month was Dec 2021 at $124.6M, while the lo
 
 Rapid Growth Periods: Identified notable surges in revenue during certain months well above the average growth rate. For example, Mar 2020 saw a +10.5% jump in revenue (month-over-month) – likely reflecting a wave of new users during the early remote-work shift – and May 2021 saw a +7.6% spike. These rapid growth periods highlight moments of accelerated customer adoption in Slack’s user base.
 
-Churn and Retention: Spotted clear churn rate trends correlating with revenue performance. Churn peaked at 6.3% in Feb 2020 (coinciding with that month’s revenue dip) but improved to 3.8% by Dec 2021 – the lowest churn in the dataset. This improved retention over time aligns with Slack’s record-high revenues, underscoring the impact of keeping churn low on sustaining growth.
