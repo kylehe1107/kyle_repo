@@ -1,7 +1,8 @@
 # Slack Subscription Analysis (2019 - 2021)
 
 Analyzing Slack Subscription trends from 2020 - 2021. Interactive Tableau dashboard can be found here.
-![image](https://github.com/user-attachments/assets/5cfd4c5e-1ab2-4074-89a5-feda323e7291)
+![image](https://github.com/user-attachments/assets/8388236b-44ad-44f4-a7aa-9599c6ab0792)
+
 
 
 # North Star Metrics and Dimensions
